@@ -8,7 +8,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Estuadiante de desarrollo de software
+🎓 Estudiante de desarrollo de software
 
 📫 Contacto: **lucianopapagni123@gmail.com**
 <!--Intro end-->
