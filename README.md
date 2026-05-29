@@ -19,7 +19,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,py,css,html,js,nodejs,mysql,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=flutter,py,css,html,js,nodejs,mysql,mongodb,github,vscode,linux,aws,docker,java,spring,vite" />
   </a>
 </p>
 <br>    
